@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/app3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/app4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,7 @@
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
       <workItem from="1636538142313" duration="1605000" />
+      <workItem from="1636540109667" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="create and display">
       <created>1636538390631</created>
@@ -77,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636538390631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exo 3 prompt + alert">
+      <created>1636540194652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636540194652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create and display" />
-    <option name="LAST_COMMIT_MESSAGE" value="create and display" />
+    <MESSAGE value="exo 3 prompt + alert" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo 3 prompt + alert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1636538472591">
